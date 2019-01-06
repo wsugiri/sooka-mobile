@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.c740f068f014d337cd53fbf45c47e7ee.js"
+  "precache-manifest.c7cbf591bb487ae5b6f7d77b61ae8e88.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "sooka-mobile"});
